@@ -4,7 +4,7 @@
 
 ![](logo.svg)
 
-- **[hello@emsqaured.ca](mailto:hello@emsquared.ca)**
+- **[hello@emsquared.ca](mailto:hello@emsquared.ca)**
 - [Github](https://github.com/emnemdesign)
 - [Behance](https://www.behance.net/makedadesign)
 - [Instagram](https://www.instagram.com/em_squared_design/)
