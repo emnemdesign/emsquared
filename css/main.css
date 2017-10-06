@@ -1,0 +1,16 @@
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1; }
+
+html {
+font-family: 'PT Sans', sans-serif;
+}
+
+.icon {
+  display: inline-block;
+  padding: 5%;
+  width: 35px;
+  text-align: center;
+}
