@@ -23,7 +23,6 @@
    padding-left: 5%;
  }
 
-
 .nav {
    background-color: #B0B3B3;
    padding-top: 6%;
@@ -34,10 +33,9 @@
 	 list-style-type: none;
  }
 
-
 .banner h1 {
 	 font-size: 6em;
-
+	 padding-top: 20%;
  }
 
  .photo {
@@ -62,5 +60,4 @@ p {
  footer {
 	 background-color: #B0B3B3;
    padding-top: 5%;
-
  }
