@@ -51,6 +51,10 @@ figcaption {
 p {
 	padding-left: 8%;
 }
+
+.portfolio {
+	padding: 8%;
+}
  .icon {
    display: inline-block;
    width: 35px;
