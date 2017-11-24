@@ -4,13 +4,57 @@
 @-webkit-viewport { width: device-width; scale: 1; }
 @viewport { width: device-width; scale: 1; }
 
-html {
-font-family: 'PT Sans', sans-serif;
+* {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
 }
 
-.icon {
-  display: inline-block;
-  padding: 5%;
-  width: 35px;
-  text-align: center;
-}
+ html {
+ 	font-family: 'Nunito', sans-serif;
+ 	font-size: 1em;
+ 	font-weight: 400;
+ }
+
+ .logo {
+   position: absolute;
+   width: 15%;
+   margin-top: -4%;
+   padding-left: 5%;
+ }
+
+
+.nav {
+   background-color: #B0B3B3;
+   padding-top: 6%;
+   padding-bottom: 10%;
+ }
+
+ .nav ul {
+	 list-style-type: none;
+ }
+
+
+ .banner {
+	 font-size: 5em;
+	 padding-bottom: 30%
+	 padding-top: 30%;
+ }
+
+ .photo {
+ 	padding-top: 5%;
+	margin-left: 24%;
+ 	width: 50%;
+ }
+
+ .icon {
+   display: inline-block;
+   padding: 1%;
+   width: 35px;
+ }
+
+ footer {
+	 background-color: #B0B3B3;
+   padding-top: 50px;
+	 padding-left: 45%;
+ }
