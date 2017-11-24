@@ -46,14 +46,21 @@
  	width: 50%;
  }
 
+figcaption {
+	margin-left: 8%;
+}
+
+p {
+	padding-left: 8%;
+}
  .icon {
    display: inline-block;
-   padding: 1%;
    width: 35px;
+	 margin-left: 11%;
  }
 
  footer {
 	 background-color: #B0B3B3;
-   padding-top: 50px;
-	 padding-left: 45%;
+   padding-top: 5%;
+
  }
