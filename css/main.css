@@ -31,8 +31,13 @@
 
  .nav ul {
 	 list-style-type: none;
+	 padding-right: 5%;
  }
 
+.nav ul li {
+	display: inline-block;
+	padding: 5%;
+}
 .banner h1 {
 	 font-size: 6em;
 	 padding-top: 20%;
@@ -55,6 +60,7 @@ p {
 .portfolio {
 	padding: 8%;
 }
+
  .icon {
    display: inline-block;
    width: 35px;
@@ -65,3 +71,9 @@ p {
 	 background-color: #B0B3B3;
    padding-top: 5%;
  }
+
+ footer p {
+	 text-align: center;
+ }
+
+ @media only screen and (max-width: 375px) {
