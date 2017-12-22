@@ -28,18 +28,10 @@
    background-color: #B0B3B3;
  }
 
- .nav {
-	 padding-top: 6%;
- }
-
  .nav ul {
 	 list-style-type: none;
 	 padding-right: 5%;
  }
-
-.nav-top ul li {
-	display: inline-block;
-}
 
 .banner h1 {
 	 font-size: 6em;
