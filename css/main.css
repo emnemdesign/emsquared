@@ -28,6 +28,10 @@
    background-color: #B0B3B3;
  }
 
+ .nav {
+	 padding-top: 6%;
+ }
+
  .nav ul {
 	 list-style-type: none;
 	 padding-right: 5%;
