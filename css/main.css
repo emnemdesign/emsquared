@@ -24,7 +24,7 @@
 
  }
 
-.nav {
+.nav-top {
    background-color: #B0B3B3;
    padding-top: 6%;
  }
@@ -34,7 +34,7 @@
 	 padding-right: 5%;
  }
 
-.nav ul li {
+.nav-top ul li {
 
 	display: inline-block;
 }
