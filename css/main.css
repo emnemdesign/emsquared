@@ -58,6 +58,7 @@ p {
  .icon {
 	 display: block;
    width: 35px;
+	 margin-left: 5%;
  }
 
  footer {
