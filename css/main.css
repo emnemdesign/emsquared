@@ -77,14 +77,6 @@ footer {
 	bottom: 0;
 }
 
-.logo {
-  padding-right: 10%;
-  padding-top: 10%;
-	padding-left: 10%;
-	width: 250px;
-	height: 250px;
-}
-
 .main {
 	width: 364px;
 	height: 364px;
@@ -271,13 +263,6 @@ img {
  	width: 100%;
  	height: 360px;
  	top: 0;
- }
-
- .logo {
-   margin-left: 34%;
-   width: 15%;
-   padding-left: 5%;
-
  }
 
 .nav-top {
