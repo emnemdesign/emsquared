@@ -22,6 +22,10 @@
  	top: 0;
  }
 
+ .icon {
+	 display: inline-block;
+ }
+
  .logo {
    margin-left: 34%;
    width: 15%;
