@@ -5,16 +5,9 @@
 @viewport { width: device-width; scale: 1; }
 
 html {
-font-family: Futura PT;
+font-family: Nunito;
 box-sizing: border-box;
 
--moz-text-size-adjust: 100%;
--ms-text-size-adjust: 100%;
--webkit-text-size-adjust: 100%;
-text-size-adjust: 100%;
-text-align: center;
-background-image: url("../img/sayagata-400px.png");
-background-position: center center;
 }
 
 *, *:before, *:after {
