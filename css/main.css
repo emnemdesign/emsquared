@@ -14,13 +14,6 @@ box-sizing: border-box;
 box-sizing: inherit;
 }
 
-.header {
-	width: 100%;
-	height: 360px;
-	top: 0;
-}
-
-
 
 nav {
 	list-style-type: none;
