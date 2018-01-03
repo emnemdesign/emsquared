@@ -165,12 +165,6 @@ img {
 	 	height: 20%;
 	 }
 
-	 .logo {
-		 width: 50%;
-		 padding-top: 5%;
-		 height: 280px;
-	 }
-
 		.web {
 			padding-top: 60%;
 		}
@@ -195,9 +189,6 @@ img {
 	img {
 		width: 23%;
 	}
-	.logo {
-		width: 40%;
-	}
 
 	.web {
 		padding-top: 40%;
@@ -218,11 +209,6 @@ img {
 
 	nav a {
 		font-size: 40pt;
-	}
-
-	.logo {
-		width: 30%;
-		height: 70%;
 	}
 
 	h2 {
