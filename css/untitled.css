@@ -1,0 +1,30 @@
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1; }
+
+html {
+font-family: Nunito;
+box-sizing: border-box;
+text-align: center;
+
+}
+
+*, *:before, *:after {
+box-sizing: inherit;
+}
+
+.logo {
+  width: 50px;
+}
+
+.nav-top ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-top ul a  {
+  text-decoration: none;
+}
