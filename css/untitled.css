@@ -16,13 +16,15 @@ box-sizing: inherit;
 }
 
 .logo {
-  width: 470px;
+  width: 400px;
 }
+
 
 .nav-top ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  color: #596365;
 }
 
 .nav-top ul a  {
