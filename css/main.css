@@ -32,6 +32,7 @@ box-sizing: inherit;
 
 a .nav-top:hover{
   text-decoration: underline;
+  color: #000000;
 }
 
 .b2t {
@@ -42,16 +43,10 @@ a .b2t:hover{
   color: #E2B100;
 }
 
-@media only screen and (min-width: 375px) {
+@media only screen and (min-width: 38em) {
 
-.nav-top ul a  {
-  display: block;
-}
-
-@media only screen and (min-width: 420px) {
-
-.nav-top ul a  {
-  display: inline-block;
+.nav-top ul li  {
+  display: inline;
 }
 
 /*@-moz-viewport { width: device-width; scale: 1; }
