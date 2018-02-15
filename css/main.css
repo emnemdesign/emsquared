@@ -18,7 +18,7 @@ box-sizing: inherit;
   width: 200px;
 }
 
-.nav-top ul {
+.nav-top {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -31,7 +31,6 @@ box-sizing: inherit;
 }
 
 a .nav-top:hover{
-  text-decoration: underline;
   color: #000000;
 }
 
@@ -40,7 +39,12 @@ a .nav-top:hover{
 }
 
 a .b2t:hover{
-  color: #E2B100;
+  color: #000;
+}
+
+nav .selected {
+
+	background-color: #fff;
 }
 
 @media only screen and (min-width: 38em) {
