@@ -30,8 +30,12 @@ box-sizing: inherit;
   color: #596365;
 }
 
-nav a .nav-top:hover{
+nav a {
   color: #000;
+}
+
+nav a:hover {
+  color: #32673f;
 }
 
 .b2t {
