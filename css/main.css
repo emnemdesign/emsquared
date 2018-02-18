@@ -63,6 +63,12 @@ nav .selected {
     padding-bottom: 10px;
 }
 
+/* contemplating black background color on logo
+header {
+    background-color: black;
+}
+*/
+
 @media only screen and (min-width: 38em) {
 
 .nav-top ul li  {
@@ -74,6 +80,20 @@ nav .selected {
 
 .text {
   text-align: left;
+}
+
+}
+
+@media only screen and (min-width: 160em) {
+
+.img-float {
+  float: left;
+  width: 50%;
+}
+
+.text-float {
+  float: right;
+  width: 50%;
 }
 
 }
