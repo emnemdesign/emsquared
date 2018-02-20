@@ -12,4 +12,4 @@ I truly believe that I am a mild perfectionist when it comes to some things. I a
 - [Instagram](https://www.instagram.com/em_squared_design/)
 - [Linkedin](https://www.linkedin.com/in/makeda-mclean-3788945b?trk=nav_responsive_tab_profile_pic)
 
-© Em Squared Design
+© Em Squared Design 2018
