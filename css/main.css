@@ -5,7 +5,7 @@
 @viewport { width: device-width; scale: 1; }
 
 html {
-font-family: Nunito;
+font-family: 'Oxygen', sans-serif;
 box-sizing: border-box;
 text-align: center;
 }
