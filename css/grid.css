@@ -23,9 +23,9 @@
 }
 
 .grid-middle {
-  -webkit-align-items: center;
-  -ms-align-items: center;
-  align-items: center;
+  -webkit-align-items: left;
+  -ms-align-items: left;
+  align-items: left;
 }
 
 .grid-stretch {
